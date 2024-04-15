@@ -1,0 +1,16 @@
+{
+    "name": "afpa/objet",
+    "autoload": {
+        "psr-4": {
+            "Action\\": "src/Action",
+            "Entity\\": "src/Entity"
+        }
+    },
+    "authors": [
+        {
+            "name": "Robbianoremi",
+            "email": "robbianoremi@gmail.com"
+        }
+    ],
+    "require": {}
+}
